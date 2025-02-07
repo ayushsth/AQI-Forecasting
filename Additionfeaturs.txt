@@ -1,0 +1,20 @@
+keras tuner ---> tuner
+
+
+Hyper parameter
+
+LSTM
+layers
+learning rate 
+optim
+hidden units 8 16 32 64 128
+
+
+standard scaling 
+
+MSE
+MAE
+rmse
+
+
+Cross validation (cv)
